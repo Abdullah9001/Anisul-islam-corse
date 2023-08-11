@@ -1,0 +1,19 @@
+{
+  "name": "lesson-6",
+  "version": "1.0.0",
+  "description": "this is a node js app, and trying to use external module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node, npm"
+  },
+  "keywords": [
+    "node.js",
+    "nmp",
+    "module"
+  ],
+  "author": "aj",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.9.7"
+  }
+}
